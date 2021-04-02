@@ -10,13 +10,13 @@ win = pygame.display.set_mode((winWidth, winHeight))
 
 pygame.display.set_caption("Injured Duck")
 
-DuckStanding_1 = pygame.image.load(r"C:\Users\muham\Desktop\Anas\Python\InjuredDuck\DuckStanding1.png")
-DuckStepLeft_1 = pygame.image.load(r"C:\Users\muham\Desktop\Anas\Python\InjuredDuck\DuckStepLeft1.png")
-DuckStepRight_1 = pygame.image.load(r"C:\Users\muham\Desktop\Anas\Python\InjuredDuck\DuckStepRight1.png")
-DuckStartFlap_1 = pygame.image.load(r"C:\Users\muham\Desktop\Anas\Python\InjuredDuck\DuckStartFlap1.png")
-DuckFlapGround_1 = pygame.image.load(r"C:\Users\muham\Desktop\Anas\Python\InjuredDuck\DuckFlapGround1.png")
-DuckFlap_1 = pygame.image.load(r"C:\Users\muham\Desktop\Anas\Python\InjuredDuck\DuckFlap1.png")
-DuckFloating_1 = pygame.image.load(r"C:\Users\muham\Desktop\Anas\Python\InjuredDuck\DuckFloating1.png")
+DuckStanding_1 = pygame.image.load("DuckStanding1.png")
+DuckStepLeft_1 = pygame.image.load("DuckStepLeft1.png")
+DuckStepRight_1 = pygame.image.load("DuckStepRight1.png")
+DuckStartFlap_1 = pygame.image.load("DuckStartFlap1.png")
+DuckFlapGround_1 = pygame.image.load("DuckFlapGround1.png")
+DuckFlap_1 = pygame.image.load("DuckFlap1.png")
+DuckFloating_1 = pygame.image.load("DuckFloating1.png")
 
 x = 50
 y = 250
